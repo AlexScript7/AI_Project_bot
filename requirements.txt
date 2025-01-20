@@ -1,0 +1,7 @@
+aiogram
+aiosqlite
+apscheduler
+transformers
+langchain_gigachat
+selenium
+webdriver_manager
